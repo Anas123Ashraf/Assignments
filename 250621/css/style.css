@@ -1,0 +1,36 @@
+* {
+    background-color: #ffeee6;
+    margin: autos;
+}
+img {
+    display: block;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+}
+article {
+    margin-left: 180px;
+}
+h2 {
+    color: #d1633c;
+}
+hr {
+    width:70%;
+    color: #57b1dc;
+}
+
+table, th,td {
+    border: 1px solid black;
+}
+table {
+    width: 70%;
+    border-collapse: collapse;
+    margin-left: 200px;
+    text-align: left;
+}
+th, td {
+    padding-left: 10px;
+    height: 25px;
+}
+
